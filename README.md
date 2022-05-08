@@ -5,7 +5,16 @@ This website is about Quick Movers that help people relocate from one place to a
  ## Installation.
  -Clone the repository.
  -Open the index file with a browser of your choice.
- 
+ ## Demonstration.
 
 
-<img width="336" alt="ehem 1" src="https://user-images.githubusercontent.com/51753883/167285273-035566a7-a8fd-4df6-91bc-df551120f3da.png">
+
+![Screenshot from 2022-05-08 09-51-17](https://user-images.githubusercontent.com/51753883/167285321-5031bcde-1dfb-476f-b096-e14d27df90e5.png)
+
+## Technologies used
+-HTML
+-CSS
+
+## To-Do list
+-Add More styles
+-Add Interactivity
