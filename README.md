@@ -18,3 +18,5 @@ This website is about Quick Movers that help people relocate from one place to a
 ## To-Do list
 -Add More styles
 -Add Interactivity
+## Contacts
+Email: kazunguderriq@gmail.com
